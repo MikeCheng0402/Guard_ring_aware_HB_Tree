@@ -1,0 +1,82 @@
+.proximity_group
+.pmos
+MM40
+MM36
+MM45
+MM46
+.GR_group
+MM48<1> MM48<2> MM48<3>
+.GR_group
+MM0 MM37 MM41
+.end_pmos
+
+.nmos
+MM44
+.GR_group
+MM47<1> MM47<4> MM47<3> MM47<2>
+.GR_group
+MM35 MM39 MM43 MTD1 MTD2
+MM33 MM34 MM38 MM42
+.end_nmos
+
+.proximity_group
+.pmos
+.GR_group
+MM1 MM2 MM1_2 MM2_2
+.GR_group
+MM3 MM4 MM3LDM MM4LDM MM3RDM MM4RDM
+.end_pmos
+
+.nmos
+MMS9
+MM10
+.GR_group
+MM5 MM6
+MM7 MM8
+MM7_2 MM8_2
+MNDM_1 MNDM_1_2
+MNDM_1_3 MNDM_1_4
+.end_nmos
+
+.proximity_group
+.pmos
+MM19 MM20
+.GR_group
+MM11 MM12
+.GR_group
+MM13 MM14
+.end_pmos
+
+.nmos
+.GR_group
+MM15 MM16
+MM17 MM18
+.end_nmos
+
+.proximity_group
+.pmos
+.GR_group
+MM25 MM26
+MM27 MM28
+.GR_group
+MM27DM MM28DM
+MM27DM_R MM28DM_R
+.end_pmos
+
+.nmos
+.GR_group
+MM22 MM21DM MM21 MNDM
+.GR_group
+MM23 MM24_2 MM23DM MM24DM MM23DM_2 MM24DM_2
+.GR_group
+MM29 MM30 MM29DM MM30DM MM29DMR MM30DMR
+.end_nmos
+
+.proximity_group
+.pmos
+MM31
+.end_pmos
+
+.nmos
+MM32
+.end_nmos

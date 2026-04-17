@@ -1,0 +1,27 @@
+.proximity_group
+.pmos
+MM3 MM7
+MM1 MM5
+MM9
+.end_pmos
+
+.proximity_group
+.pmos
+MM4 MM8
+MM2 MM6
+MM10
+.end_pmos
+
+.nmos
+MM11 MM12
+MM13 MM14
+.end_nmos
+
+
+.proximity_group
+.pmos
+MM15 
+MM16
+MM17 
+MM18
+.end_pmos
